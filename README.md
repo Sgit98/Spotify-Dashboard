@@ -97,5 +97,5 @@ Identifies peak listening hours and days.
 
 ## 📸 Screenshots / Demo
 
-![Dashboard Preview](ADD_YOUR_IMAGE_LINK_HERE)
+![Dashboard Preview]([ADD_YOUR_IMAGE_LINK_HERE](https://github.com/Sgit98/Spotify-Dashboard/blob/main/Screenshot%202026-02-20%20161439.png))
 
